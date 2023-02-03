@@ -2,7 +2,7 @@
 Tech Stack used:
 HTML,CSS,JavaScript and Nunjucks
 
-Deployed Link of Task1:https://comfy-strudel-743905.netlify.app/
+Deployed Link of Task1:https://monumental-dragon-64b7d1.netlify.app/
 
 
 some snapshorts of Task1:
