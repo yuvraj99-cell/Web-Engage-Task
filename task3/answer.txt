@@ -1,0 +1,60 @@
+
+1.  My approach of solving this issue would be... I will reach out to both customers to inform them of the delay caused by the family emergency and and request an extension of the deadline for their task.
+
+For Task 1, as the low-priority customer has not provided a go-live date, the updated timeline can be discussed and agreed upon with them.
+
+For 2nd Task, the priority customer's campaign needs to go live in the next 2 days. It is important to prioritize this task and take necessary steps to complete it as soon as possible, such as allocating additional resources or working extra hours, to ensure that the customer's deadline is met.
+
+2.  To Manoj(manager),
+     Subject- Brief account on Online Survey Assignment
+     Dear Sir,
+     As mentioned in the task1, the assignment consist of pages as follows:
+     First page contains a form which takes input from the user- email and contact number followed by a button says "TALK TO US". On filling the details and click the button will redirect to the next 
+     page containing the thanks-giving message along with the user details.
+
+    Tech stack used: HTML , CSS , JavaScript.
+    Features:  The form is responsive and will alter accordingly with the screen sizes.
+                      The form contains validation as mentioned in the task that the user can not type invalid email (having < minimum length).
+                      The user can not submit the empty fields as it will show error message.
+                      The mobile no. input box will take only digits and the length will be exact 10 else show error (Invalid contact number).
+                      The pages are user friendly and attractive to engage the user's attention.
+                      
+    Regards,
+    Yuvraj yadav
+
+
+    To Ravi(Manager),
+    Subject-Brief account on Online Nunjuncks Assignment
+     Dear Sir,
+     As mentioned in the task2, the assignment is as follows:
+     First install the Nunjuncks dependency and import using require.
+     In view folder create index.njk and implement the conditions as mentioned.
+     The data is stored in db.json.
+     You can see the result in index.html. 
+
+     Tech stack used: HTML , CSS , Nunjuncks.
+
+     Regards,
+     Yuvraj yadav
+
+
+
+3.  To Customer,
+     Subject- Informing customer regarding project delay
+     Dear Sir/Ma'am,
+     I’m sorry to inform you that I will not able to deliver the given task on time initially finalised and have adjusted the timeline according to the new scenario.
+     Due to a family emergency, the task2 has been delayed by three days. Our new estimated deadline is jan 15,2023. 
+     I am confident that after the issue has been solved I will be able to complete the project quickly and efficiently.
+     
+     I appreciate your Co-operation and understanding as we tackle this unforeseen issue Thank you. 
+     You are more than welcome to contact if you have any questions about the delay, the new schedule or anything else.
+                      
+    Regards,
+    Yuvraj yadav
+
+
+
+
+
+
+
